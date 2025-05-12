@@ -80,7 +80,7 @@ class Library {
                 return;
             }
         }
-        System.out.println("Book not found. ");
+        System.out.println("Book not found.");
     }
     public void displayAllBooks() { //prints the books which contains title, author, ISBN, and availability
 		System.out.println("Available books: " + books);
